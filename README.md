@@ -59,6 +59,6 @@ archivePrefix = {arXiv},
 }
 ```
 
-## Repos based on Det3D
+## Repos based on MegDet3D
 * [ViP](https://github.com/poodarchu/ViP)
-* [CBGS](https://github.com/poodarchu/Class-balanced-Grouping-and-Sampling-for-Point-Cloud-3D-Object-Detection/blob/master/README.md)
+* [CBGS](https://github.com/poodarchu/Class-balanced-Grouping-and-Sampling-for-Point-Cloud-3D-Object-Detection)
